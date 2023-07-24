@@ -38,3 +38,9 @@ body {
 .link:hover {
     color: #0053ff;
 }
+
+.scopo{
+    display: flex;
+    padding: 0 30px;
+    heig
+}
